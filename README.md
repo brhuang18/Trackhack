@@ -2,7 +2,7 @@
 The data is unavailable as an NDA was signed with tracfone.
 
 
-This is the zip submission of 9417-brhuang. This outlines what is each file contains.
+This outlines what each file contains.
 
 code.ipynb: main pipeline to clean the data, train the model and get predictions. This file does not contain any data exploration.
 
